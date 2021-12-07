@@ -1,17 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
 
 *{
-
     font-family: 'Oswald', sans-serif;
-
 }
 
 body{
-    width: 90%;
-    margin-top: 1%;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding-bottom: 0;
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-bottom: 0%;
 }
 
 .navi__bar{
